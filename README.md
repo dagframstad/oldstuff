@@ -1,1 +1,1 @@
-Just a place to keep lld stuff created in ancient times.
+Just a place to keep old stuff created in ancient times.
